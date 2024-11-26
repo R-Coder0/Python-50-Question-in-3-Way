@@ -1,3 +1,4 @@
+
 string = input("Enter a string to check if it is a palindrome: ")
 
 normalized_string = string.replace(" ", "").lower()
